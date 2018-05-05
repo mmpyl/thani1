@@ -1,0 +1,8 @@
+{
+  "name": "thani",
+  "app_id": "f60cbefe",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
